@@ -4,10 +4,10 @@
     "url": "https://dsw.elixir-europe.org",
     "icon": "https://icons.duckduckgo.com/ip3/dsw.elixir-europe.org.ico",
     "slug": "dsw-cloud-for-elixir-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 703,
@@ -15,14 +15,16 @@
     "timeWeek": 739,
     "timeMonth": 703,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 1
+    }
   },
   {
     "name": "DSW Researchers instance",
     "url": "https://researchers.dsw.elixir-europe.org",
     "icon": "https://icons.duckduckgo.com/ip3/researchers.dsw.elixir-europe.org.ico",
     "slug": "dsw-researchers-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 854,
     "timeMonth": 784,
     "timeYear": 784,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   }
 ]
