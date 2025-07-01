@@ -4,19 +4,19 @@
     "url": "https://dsw.elixir-europe.org",
     "icon": "https://icons.duckduckgo.com/ip3/dsw.elixir-europe.org.ico",
     "slug": "dsw-cloud-for-elixir-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 822,
-    "timeWeek": 739,
-    "timeMonth": 703,
-    "timeYear": 703,
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "81.33%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
+    "time": 705,
+    "timeDay": 774,
+    "timeWeek": 737,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-07-01": 1
+      "2025-07-01": 269
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://researchers.dsw.elixir-europe.org",
     "icon": "https://icons.duckduckgo.com/ip3/researchers.dsw.elixir-europe.org.ico",
     "slug": "dsw-researchers-instance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 993,
-    "timeWeek": 854,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "81.36%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
+    "time": 787,
+    "timeDay": 910,
+    "timeWeek": 851,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-07-01": 0
+      "2025-07-01": 268
     }
   }
 ]
