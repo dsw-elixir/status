@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 743,
-    "timeDay": 843,
-    "timeWeek": 687,
-    "timeMonth": 922,
-    "timeYear": 743,
+    "time": 741,
+    "timeDay": 521,
+    "timeWeek": 641,
+    "timeMonth": 916,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-07-01": 269
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/researchers.dsw.elixir-europe.org.ico",
     "slug": "dsw-researchers-instance",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 798,
-    "timeDay": 865,
-    "timeWeek": 816,
-    "timeMonth": 768,
-    "timeYear": 798,
+    "uptimeYear": "99.87%",
+    "time": 797,
+    "timeDay": 615,
+    "timeWeek": 763,
+    "timeMonth": 762,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2025-07-01": 268
     }
