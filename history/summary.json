@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsw.elixir-europe.org.ico",
     "slug": "dsw-cloud-for-elixir-homepage",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 741,
-    "timeDay": 521,
+    "uptimeYear": "99.87%",
+    "time": 740,
+    "timeDay": 629,
     "timeWeek": 641,
-    "timeMonth": 916,
-    "timeYear": 741,
+    "timeMonth": 913,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2025-07-01": 269
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 797,
-    "timeDay": 615,
+    "timeDay": 769,
     "timeWeek": 763,
-    "timeMonth": 762,
+    "timeMonth": 759,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2025-07-01": 268
