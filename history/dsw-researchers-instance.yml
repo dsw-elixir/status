@@ -1,7 +1,7 @@
 url: https://researchers.dsw.elixir-europe.org
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 674
-lastUpdated: 2025-11-26T23:12:29.258Z
+lastUpdated: 2025-11-27T09:52:11.091Z
 startTime: 2025-06-21T18:28:34.075Z
 generator: Upptime <https://github.com/upptime/upptime>
